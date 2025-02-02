@@ -1,5 +1,5 @@
-None,None,None,111,グリーマ・レーヴ大聖堂-Hulle Granz Cathedral-
-隠されし-Hidden-,禁断の-Forbidden-,聖域-Holy Ground-,141,隠されし月の裏の聖域
-勇み行く-Courageous-,初陣の-Engaging-,夢の果て-Daydream-,0,-
-萌え立つ-Bursting-,過ぎ越しの-Passed Over-,碧野-Green Field- ,0,-
--,月の裏の-Darkside-,-,0,-
+None,None,None,1_1_1,グリーマ・レーヴ大聖堂-Hulle Granz Cathedral-,0
+隠されし-Hidden-,禁断の-Forbidden-,聖域-Holy Ground-,1_4_1,隠されし月の裏の聖域,1
+勇み行く-Courageous-,初陣の-Engaging-,夢の果て-Daydream-,0_0_0,-,2
+萌え立つ-Bursting-,過ぎ越しの-Passed Over-,碧野-Green Field- ,0_0_0,-,3
+-,月の裏の-Darkside-,-,0_0_0,-,4
