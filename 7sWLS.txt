@@ -1,5 +1,5 @@
 None,None,None,1_1_1,隠されし禁断の聖域,グリーマ・レーヴ大聖堂-Hulle Granz Cathedral-,wrld_98ab58a0-7877-48d9-956a-4da0568ea8ff
 隠されし-Hidden-,禁断の-Forbidden-,聖域-Holy Ground-,1_4_1,隠されし月の裏の聖域,隠されし月の裏の聖域,wrld_98846742-8f08-4c1c-ad55-de564c396d8d
-勇み行く-Courageous-,初陣の-Engaging-,夢の果て-Daydream-,0_0_0,-,-,-
+勇み行く-Courageous-,初陣の-Engaging-,夢の果て-Daydream-,3_3_3,萌え立つ過ぎ越しの碧野,萌え立つ過ぎ越しの碧野,wrld_70fc6a5b-b153-4da2-8f59-0e05c1a6424f
 萌え立つ-Bursting-,過ぎ越しの-Passed Over-,碧野-Green Field- ,0_0_0,-,-,-
 -,月の裏の-Darkside-,-,0_0_0,-,-,-
