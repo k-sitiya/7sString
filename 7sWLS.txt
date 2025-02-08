@@ -1,16 +1,16 @@
 None,None,None,1_5_3,1,孤立せる沈黙の大蓋,創造主の部屋-The Creator's Room-,-
-孤立せる-Lonely-,禁断の-Forbidden-,魔境-HauntedLand-,4_7_5,1,呪われし失意の楽園,碑文　ハロルドの手記,-
-ほろ苦き-Bitter-,狂乱の-Madness-,帝国-Empire-,12_2_1,1,滅びゆく狂乱の魔境,碑文　鳥かご,-
-脈動する-Pulsating-,夢幻の-Fantasy-,大蓋-Great Seal-,6_11_15,1,共鳴する偽りの休耕地,碑文　家,-
-呪われし-Cursed-,最悪の-Worst-,夕月-NightMoon-,18_15_10,1,談笑する謀略の双子,碑文　蝶モルガナ ゴレ,-
-嘲笑う-Sneering-,沈黙の-Silent-,楽園-Paradise-,14_9_13,1,絶叫する風紋の宿命城,碑文　秋,-
-共鳴する-Resonating-,雲海の-SeaOfCloud-,祭壇-Altar-,10_13_6,1,輪廻する煉獄の祭壇,碑文　ハロルド　クビア,-
-忌まわしき-Hideous-,失意の-Despaired-,勇魚-Whale-,3_4_11,1,脈動する最悪の中心核,ネットスラム-メイガス-,-
-くれなずむ-Setting-,必衰の-Failing-,聖域-Holy Ground-,3_17_11,1,脈動する真実の中心核,ネットスラム　コルベニク,-
+孤立せる-Lonely-,禁断の-Forbidden-,魔境-HauntedLand-,4_7_5,1,呪われし失意の楽園,碑文の断片 00-Epitaph 00-,-
+ほろ苦き-Bitter-,狂乱の-Madness-,帝国-Empire-,12_2_1,1,滅びゆく狂乱の魔境,碑文の断片 01-Epitaph 01-,-
+脈動する-Pulsating-,夢幻の-Fantasy-,大蓋-Great Seal-,18_15_10,1,談笑する謀略の双子,碑文の断片 02-Epitaph 02-,-
+呪われし-Cursed-,最悪の-Worst-,夕月-NightMoon-,6_11_15,1,共鳴する偽りの休耕地,碑文の断片 03-Epitaph 03-,-
+嘲笑う-Sneering-,沈黙の-Silent-,楽園-Paradise-,14_9_13,1,絶叫する風紋の宿命城,碑文の断片 04-Epitaph 04-,-
+共鳴する-Resonating-,雲海の-SeaOfCloud-,祭壇-Altar-,10_13_6,1,輪廻する煉獄の祭壇,ハロルドの部屋-The Harald's Room-,-
+忌まわしき-Hideous-,失意の-Despaired-,勇魚-Whale-,3_4_11,1,脈動する最悪の中心核,ネットスラム -Net Slum-,-
+くれなずむ-Setting-,必衰の-Failing-,聖域-Holy Ground-,3_17_11,1,脈動する真実の中心核,ネットスラム -Net Slum-,-
 隠されし-Hidden-,風紋の-WindSand's-,絶対城壁-Bukwark-,3_23_11,1,脈動する創世の中心核,ネットスラム タルタルガ-Net Slum Tartarga-,-
-輪廻する-Reincarnated-,無窮の-Eternity's-,双子-Twins-,2_3_17,1,ほろ苦き夢幻の鏡像世界,逆城都市,-
-静穏なる-Calm-,偽りの-False-,中心核-Core-,7_19_19,1,忌まわしき誰がための巨人,天空の巨人,-
-滅びゆく-Dying-,原初の-Prumitive-,黄泉国-Hades-,3_6_7,1,脈動する雲海の勇魚,巨大生物,-
+輪廻する-Reincarnated-,無窮の-Eternity's-,双子-Twins-,2_3_17,1,ほろ苦き夢幻の鏡像世界,逆城都市-The Inverted Castle-,-
+静穏なる-Calm-,偽りの-False-,中心核-Core-,7_19_19,1,忌まわしき誰がための巨人,飛行船旅団-The Aerial Fleet-,-
+滅びゆく-Dying-,原初の-Prumitive-,黄泉国-Hades-,3_6_7,1,脈動する雲海の勇魚,巨大生物-The Giant Creature-,-
 神さびる-Sacred-,煉獄の-Purgatorial-,宿命城-FateCastle-,9_1_9,1,隠されし禁断の絶対城壁,モーリー・バロウ城砦-Morrigu Barrow Wall -,-
 絶叫する-Screaming-,風車の-Windmill's-,古戦場-Battlefield-,9_1_12,1,隠されし禁断の黄泉国,嘆きの都 エルド・スレイカ-Wailing Capital Wald Uberlisterin-,-
 霞み行く-Fading-,謀略の-Snaring-,休耕地-Grasslands-,9_1_8,1,隠されし禁断の聖域,グリーマ・レーヴ大聖堂-Hülle Granz Cathedral-,-
