@@ -19,21 +19,21 @@ None,None,None,22_14_16,1,脈動する最悪の中心核,ネットスラム -Net
 欲深き-Greedy-,蒸気機関の-Engine's-,旋律-Melody-,22_3_5,11,脈動する雲海の勇魚,巨大生物-The Giant Creature-,-
 滅びゆく-Dying-,真実の-Truth's-,絶対城壁-Bukwark-,30_6_34,11,時きざむ久遠の楽園,悠久の古都 マク・アヌ-EternalCity MacAnu-,-
 名もなき-Nameless-,翠緑の-Emerald-,聖域-Holy Ground-,31_39_28,11,光放つ刹那の古戦場,闘争都市 ルミナ・クロス-WarringCity LiminaCloth-,-
-脈動する-Pulsating-,創世の-Genesis's-,宿命城-FateCastle-,24_2_34,11,年経た異教の楽園,蒼穹都市 ドル・ドナ-CelestialCity DolDona-,-
+脈動する-Pulsating-,創世の-Genesis's-,宿命城-FateCastle-,24_2_38,11,年経た異教の遺跡郡,蒼穹都市 ドル・ドナ-CelestialCity DolDona-,-
 腐敗せる-Rotting-,大海の-Ocean's-,残留思念-Remnant-,19_22_15,11,欲深き創世の帝国,双天都市 ブレグ・エボナ-DualCity BregEpona-,-
 年経た-Ancient-,誰がための-Someone's-,罪界-SinRealm-,1_18_37,11,花開く情熱の栄華,"王者の島 イ･プラセル-Hy Brasail, the Isle of Kings-",-
-談笑する-Chatting-,沈黙の-Silent-,祭壇-Altar-,7_9_20,12,隠されし禁断の絶対城壁,モーリー・バロウ城砦-Morrigu Barrow Wall -,-
-絶叫する-Screaming-,必衰の-Failing-,砦-Fort-,7_9_35,12,隠されし禁断の黄泉国,嘆きの都 エルド・スレイカ-Wailing Capital Wald Uberlisterin-,-
-静穏なる-Calm-,不浄の-Unclean-,沙海-SeaOfSand-,7_9_28,12,隠されし禁断の古戦場,コシュタ・バウア戦場跡-The Coite-Bodher Battlefield-,-
-神さびる-Sacred-,風車の-Windmill's-,古戦場-Battlefield-,7_9_39,12,隠されし禁断の意馬心猿,糖蜜の館 シフ・ベルグ-Sugar Mansion Sif Berg-,-
-呪われし-Cursed-,風紋の-WindSand's-,極北-Arctic-,7_9_12,12,隠されし禁断の秘蹟,ギャリオン・メイズ大神殿-The Great Temple of Caerleon Medb-,-
-時きざむ-Chronicling-,忘却の-Oblivious-,鏡像世界-MirrorWorld-,7_9_3,12,隠されし禁断の竜骨山脈,竜骨山脈ブリューナ・ギデオン-Briona Gwydion the Dragonbein Range-,-
-光放つ-Glowing-,謀略の-Snaring-,巨人-Giant-,7_9_11,12,隠されし禁断の飛瀑,アルケ・ケルン大瀑布-Arche Koeln Waterfall-,-
-孤立せる-Lonely-,夢幻の-Fantasy-,休耕地-Grasslands-,7_9_6,12,隠されし禁断の冥界樹,死生所 エルディルー-Dead World of Indieglut Lugh-,-
-共鳴する-Resonating-,無窮の-Eternity's-,機械人形-MetalDoll-,7_9_24,12,隠されし禁断の罪界,痛みの森 ラーンバティ-World of Sin Ran Hati-,-
-忌まわしき-Hideous-,無垢なる-Innocent-,楽園-Paradise-,7_9_7,12,隠されし禁断の無明窟,クア・ホルム大空洞-Q’ha Holme Cavern-,-
-瓦解せる-Collapsed-,幽玄の-Subtle-,黄泉国-Hades-,7_9_8,12,隠されし禁断の未踏峰,六鳴山 アル・ファデル-The Six Ringing Peaks of Al Fadel-,-
-霞み行く-Fading-,旅人の-Traveler's-,遠雷-FarThunder-,7_9_14,12,隠されし禁断の展覧会,バル・ボル美術館-Balbol Museum-,-
+談笑する-Chatting-,沈黙の-Silent-,祭壇-Altar-,7_9_20,12,隠されし禁断の展覧会,バル・ボル美術館-Balbol Museum-,-
+絶叫する-Screaming-,必衰の-Failing-,砦-Fort-,7_9_35,13,隠されし禁断の絶対城壁,モーリー・バロウ城砦-Morrigu Barrow Wall -,-
+静穏なる-Calm-,不浄の-Unclean-,沙海-SeaOfSand-,7_9_28,13,隠されし禁断の黄泉国,嘆きの都 エルド・スレイカ-Wailing Capital Wald Uberlisterin-,-
+神さびる-Sacred-,風車の-Windmill's-,古戦場-Battlefield-,7_9_39,13,隠されし禁断の古戦場,コシュタ・バウア戦場跡-The Coite-Bodher Battlefield-,-
+呪われし-Cursed-,風紋の-WindSand's-,極北-Arctic-,7_9_12,13,隠されし禁断の意馬心猿,糖蜜の館 シフ・ベルグ-Sugar Mansion Sif Berg-,-
+時きざむ-Chronicling-,忘却の-Oblivious-,鏡像世界-MirrorWorld-,7_9_3,13,隠されし禁断の秘蹟,ギャリオン・メイズ大神殿-The Great Temple of Caerleon Medb-,-
+光放つ-Glowing-,謀略の-Snaring-,巨人-Giant-,7_9_11,13,隠されし禁断の竜骨山脈,竜骨山脈ブリューナ・ギデオン-Briona Gwydion the Dragonbein Range-,-
+孤立せる-Lonely-,夢幻の-Fantasy-,休耕地-Grasslands-,7_9_6,13,隠されし禁断の飛瀑,アルケ・ケルン大瀑布-Arche Koeln Waterfall-,-
+共鳴する-Resonating-,無窮の-Eternity's-,機械人形-MetalDoll-,7_9_24,13,隠されし禁断の冥界樹,死生所 エルディルー-Dead World of Indieglut Lugh-,-
+忌まわしき-Hideous-,無垢なる-Innocent-,楽園-Paradise-,7_9_7,13,隠されし禁断の罪界,痛みの森 ラーンバティ-World of Sin Ran Hati-,-
+瓦解せる-Collapsed-,幽玄の-Subtle-,黄泉国-Hades-,7_9_8,13,隠されし禁断の無明窟,クア・ホルム大空洞-Q’ha Holme Cavern-,-
+霞み行く-Fading-,旅人の-Traveler's-,遠雷-FarThunder-,7_9_14,0,-,-,-
 果てなき-Boundless-,煉獄の-Purgatorial-,栄華-Glory-,0_0_0,0,-,-,-
 ほろ苦き-Bitter-,六花の-Snowflake's-,遺跡郡-Remains-,0_0_0,0,-,-,-
 くれなずむ-Setting-,刹那の-Momentary-,意馬心猿-InHeat-,0_0_0,0,-,-,-
