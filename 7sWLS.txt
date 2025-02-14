@@ -1,38 +1,38 @@
-None,None,None,22_14_16,1,脈動する最悪の中心核,ネットスラム -Net Slum-,-
-花開く-Blooming-,異教の-Pagan-,稜線-Ridgeline-,22_20_16,1,脈動する真実の中心核,ネットスラム -Net Slum-,-
-光なき-Lightless-,雲海の-SeaOfCloud-,竜骨山脈-Dragonbein-,22_22_16,1,脈動する創世の中心核,ネットスラム タルタルガ-Net Slum Tartarga-,-
-焦げつく-Burining-,化石の-Fossil's-,夕月-NightMoon-,27_12_19,2,静穏なる原初の旋律,水の都 マク・アヌ-AquaCity MacAnu-,-
-大いなる-Great-,偽りの-False-,勇魚-Whale-,21_28_23,2,名もなき風車の残留思念,高山都市 ドゥナ・ロリヤック-HighlandCity DunLoireag-,-
-底知れぬ-Bottomless-,久遠の-Eternal-,冥界樹-DeadWood-,28_16_36,2,神さびる罪科の遠雷,文明都市 カルミナ・ガデリカ-CulturalCity CarminaGadelica-,-
-隠されし-Hidden-,朽葉色の-Fallow-,無明窟-DarkGrotto-,35_3_26,2,瓦解せる雲海の砦,空中都市 フォート・アウフ-AerialCity FortOuph-,-
-風駆ける-Galloping-,狂乱の-Madness-,未踏峰-VirginPeaks-,36_21_21,2,霞み行く翠緑の聖域,遺跡都市 リア・ファイル-RelicCity LiaFail-,-
-豊穣なる-Plenteous-,禁断の-Forbidden-,魔境-HauntedLand-,7_9_21,3,隠されし禁断の聖域,グリーマ・レーヴ大聖堂-Hülle Granz Cathedral-,-
-埋もれし-Buried-,金色の-Golden-,碧野-Green Field- ,32_25_17,4,孤立せる沈黙の大蓋,創造主の部屋-The Creator's Room-,-
-華麗なる-Splendid-,月下の-Moonlit-,飛瀑-Radiation-,29_17_34,5,呪われし失意の楽園,碑文の断片 00-Epitaph 00-,-
-閉ざされし-Closed-,原初の-Prumitive-,秘蹟-Sacrament-,20_8_9,6,滅びゆく狂乱の魔境,碑文の断片 01-Epitaph 01-,-
-厳酷なる-Severe-,湖畔の-Lakeside's-,道標-Milestone-,25_31_18,7,談笑する謀略の双子,碑文の断片 02-Epitaph 02-,-
-見えざる-Unseen-,最悪の-Worst-,展覧会-Exhibition-,33_5_32,8,共鳴する偽りの休耕地,碑文の断片 03-Epitaph 03-,-
-永久誓う-Forever-,最果ての-Distant-,帝国-Empire-,26_29_22,9,絶叫する風紋の宿命城,碑文の断片 04-Epitaph 04-,-
-茫漠たる-Expansive-,罪科の-Crime's-,中心核-Core-,18_37_25,10,輪廻する煉獄の祭壇,ハロルドの部屋-The Harald's Room-,-
-嘲笑う-Sneering-,失意の-Despaired-,大蓋-Great Seal-,38_32_30,11,ほろ苦き夢幻の鏡像世界,逆城都市-The Inverted Castle-,-
-輪廻する-Reincarnated-,情熱の-Passionate-,双子-Twins-,34_24_31,11,忌まわしき誰がための巨人,飛行船旅団-The Aerial Fleet-,-
-欲深き-Greedy-,蒸気機関の-Engine's-,旋律-Melody-,22_3_5,11,脈動する雲海の勇魚,巨大生物-The Giant Creature-,-
-滅びゆく-Dying-,真実の-Truth's-,絶対城壁-Bukwark-,30_6_34,11,時きざむ久遠の楽園,悠久の古都 マク・アヌ-EternalCity MacAnu-,-
-名もなき-Nameless-,翠緑の-Emerald-,聖域-Holy Ground-,31_39_28,11,光放つ刹那の古戦場,闘争都市 ルミナ・クロス-WarringCity LiminaCloth-,-
-脈動する-Pulsating-,創世の-Genesis's-,宿命城-FateCastle-,24_2_38,11,年経た異教の遺跡郡,蒼穹都市 ドル・ドナ-CelestialCity DolDona-,-
-腐敗せる-Rotting-,大海の-Ocean's-,残留思念-Remnant-,19_22_15,11,欲深き創世の帝国,双天都市 ブレグ・エボナ-DualCity BregEpona-,-
-年経た-Ancient-,誰がための-Someone's-,罪界-SinRealm-,1_18_37,11,花開く情熱の栄華,"王者の島 イ･プラセル-Hy Brasail, the Isle of Kings-",-
-談笑する-Chatting-,沈黙の-Silent-,祭壇-Altar-,7_9_20,12,隠されし禁断の展覧会,バル・ボル美術館-Balbol Museum-,-
-絶叫する-Screaming-,必衰の-Failing-,砦-Fort-,7_9_35,13,隠されし禁断の絶対城壁,モーリー・バロウ城砦-Morrigu Barrow Wall -,-
-静穏なる-Calm-,不浄の-Unclean-,沙海-SeaOfSand-,7_9_28,13,隠されし禁断の黄泉国,嘆きの都 エルド・スレイカ-Wailing Capital Wald Uberlisterin-,-
-神さびる-Sacred-,風車の-Windmill's-,古戦場-Battlefield-,7_9_39,13,隠されし禁断の古戦場,コシュタ・バウア戦場跡-The Coite-Bodher Battlefield-,-
-呪われし-Cursed-,風紋の-WindSand's-,極北-Arctic-,7_9_12,13,隠されし禁断の意馬心猿,糖蜜の館 シフ・ベルグ-Sugar Mansion Sif Berg-,-
-時きざむ-Chronicling-,忘却の-Oblivious-,鏡像世界-MirrorWorld-,7_9_3,13,隠されし禁断の秘蹟,ギャリオン・メイズ大神殿-The Great Temple of Caerleon Medb-,-
-光放つ-Glowing-,謀略の-Snaring-,巨人-Giant-,7_9_11,13,隠されし禁断の竜骨山脈,竜骨山脈ブリューナ・ギデオン-Briona Gwydion the Dragonbein Range-,-
-孤立せる-Lonely-,夢幻の-Fantasy-,休耕地-Grasslands-,7_9_6,13,隠されし禁断の飛瀑,アルケ・ケルン大瀑布-Arche Koeln Waterfall-,-
-共鳴する-Resonating-,無窮の-Eternity's-,機械人形-MetalDoll-,7_9_24,13,隠されし禁断の冥界樹,死生所 エルディルー-Dead World of Indieglut Lugh-,-
-忌まわしき-Hideous-,無垢なる-Innocent-,楽園-Paradise-,7_9_7,13,隠されし禁断の罪界,痛みの森 ラーンバティ-World of Sin Ran Hati-,-
-瓦解せる-Collapsed-,幽玄の-Subtle-,黄泉国-Hades-,7_9_8,13,隠されし禁断の無明窟,クア・ホルム大空洞-Q’ha Holme Cavern-,-
+None,None,None,22_14_16,1,脈動する-Pulsating-_最悪の-Worst-_中心核-Core-,ネットスラム -Net Slum-,-
+花開く-Blooming-,異教の-Pagan-,稜線-Ridgeline-,22_20_16,1,脈動する-Pulsating-_真実の-Truth's-_中心核-Core-,ネットスラム -Net Slum-,-
+光なき-Lightless-,雲海の-SeaOfCloud-,竜骨山脈-Dragonbein-,22_22_16,1,脈動する-Pulsating-_創世の-Genesis's-_中心核-Core-,ネットスラム タルタルガ-Net Slum Tartarga-,-
+焦げつく-Burining-,化石の-Fossil's-,夕月-NightMoon-,27_12_19,2,静穏なる-Calm-_原初の-Prumitive-_旋律-Melody-,水の都 マク・アヌ-AquaCity MacAnu-,-
+大いなる-Great-,偽りの-False-,勇魚-Whale-,21_28_23,2,名もなき-Nameless-_風車の-Windmill's-_残留思念-Remnant-,高山都市 ドゥナ・ロリヤック-HighlandCity DunLoireag-,-
+底知れぬ-Bottomless-,久遠の-Eternal-,冥界樹-DeadWood-,28_16_36,2,神さびる-Sacred-_罪科の-Crime's-_遠雷-FarThunder-,文明都市 カルミナ・ガデリカ-CulturalCity CarminaGadelica-,-
+隠されし-Hidden-,朽葉色の-Fallow-,無明窟-DarkGrotto-,35_3_26,2,瓦解せる-Collapsed-_雲海の-SeaOfCloud-_砦-Fort-,空中都市 フォート・アウフ-AerialCity FortOuph-,-
+風駆ける-Galloping-,狂乱の-Madness-,未踏峰-VirginPeaks-,36_21_21,2,霞み行く-Fading-_翠緑の-Emerald-_聖域-Holy Ground-,遺跡都市 リア・ファイル-RelicCity LiaFail-,-
+豊穣なる-Plenteous-,禁断の-Forbidden-,魔境-HauntedLand-,7_9_21,3,隠されし-Hidden-_禁断の-Forbidden-_聖域-Holy Ground-,グリーマ・レーヴ大聖堂-Hülle Granz Cathedral-,-
+埋もれし-Buried-,金色の-Golden-,碧野-Green Field- ,32_25_17,4,孤立せる-Lonely-_沈黙の-Silent-_大蓋-Great Seal-,創造主の部屋-The Creator's Room-,-
+華麗なる-Splendid-,月下の-Moonlit-,飛瀑-Radiation-,29_17_34,5,呪われし-Cursed-_失意の-Despaired-_楽園-Paradise-,碑文の断片 00-Epitaph 00-,-
+閉ざされし-Closed-,原初の-Prumitive-,秘蹟-Sacrament-,20_8_9,6,滅びゆく-Dying-_狂乱の-Madness-_魔境-HauntedLand-,碑文の断片 01-Epitaph 01-,-
+厳酷なる-Severe-,湖畔の-Lakeside's-,道標-Milestone-,25_31_18,7,談笑する-Chatting-_謀略の-Snaring-_双子-Twins-,碑文の断片 02-Epitaph 02-,-
+見えざる-Unseen-,最悪の-Worst-,展覧会-Exhibition-,33_5_32,8,共鳴する-Resonating-_偽りの-False-_休耕地-Grasslands-,碑文の断片 03-Epitaph 03-,-
+永久誓う-Forever-,最果ての-Distant-,帝国-Empire-,26_29_22,9,絶叫する-Screaming-_風紋の-WindSand's-_宿命城-FateCastle-,碑文の断片 04-Epitaph 04-,-
+茫漠たる-Expansive-,罪科の-Crime's-,中心核-Core-,18_37_25,10,輪廻する-Reincarnated-_煉獄の-Purgatorial-_祭壇-Altar-,ハロルドの部屋-The Harald's Room-,-
+嘲笑う-Sneering-,失意の-Despaired-,大蓋-Great Seal-,38_32_30,11,ほろ苦き-Bitter-_夢幻の-Fantasy-_鏡像世界-MirrorWorld-,逆城都市-The Inverted Castle-,-
+輪廻する-Reincarnated-,情熱の-Passionate-,双子-Twins-,34_24_31,11,忌まわしき-Hideous-_誰がための-Someone's-_巨人-Giant-,飛行船旅団-The Aerial Fleet-,-
+欲深き-Greedy-,蒸気機関の-Engine's-,旋律-Melody-,22_3_5,11,脈動する-Pulsating-_雲海の-SeaOfCloud-_勇魚-Whale-,巨大生物-The Giant Creature-,-
+滅びゆく-Dying-,真実の-Truth's-,絶対城壁-Bukwark-,30_6_34,11,時きざむ-Chronicling-_久遠の-Eternal-_楽園-Paradise-,悠久の古都 マク・アヌ-EternalCity MacAnu-,-
+名もなき-Nameless-,翠緑の-Emerald-,聖域-Holy Ground-,31_39_28,11,光放つ-Glowing-_刹那の-Momentary-_古戦場-Battlefield-,闘争都市 ルミナ・クロス-WarringCity LiminaCloth-,-
+脈動する-Pulsating-,創世の-Genesis's-,宿命城-FateCastle-,24_2_38,11,年経た-Ancient-_異教の-Pagan-_遺跡郡-Remains-,蒼穹都市 ドル・ドナ-CelestialCity DolDona-,-
+腐敗せる-Rotting-,大海の-Ocean's-,残留思念-Remnant-,19_22_15,11,欲深き-Greedy-_創世の-Genesis's-_帝国-Empire-,双天都市 ブレグ・エボナ-DualCity BregEpona-,-
+年経た-Ancient-,誰がための-Someone's-,罪界-SinRealm-,1_18_37,11,花開く-Blooming-_情熱の-Passionate-_栄華-Glory-,"王者の島 イ･プラセル-Hy Brasail, the Isle of Kings-",-
+談笑する-Chatting-,沈黙の-Silent-,祭壇-Altar-,7_9_20,12,隠されし-Hidden-_禁断の-Forbidden-_展覧会-Exhibition-,バル・ボル美術館-Balbol Museum-,-
+絶叫する-Screaming-,必衰の-Failing-,砦-Fort-,7_9_35,13,隠されし-Hidden-_禁断の-Forbidden-_絶対城壁-Bukwark-,モーリー・バロウ城砦-Morrigu Barrow Wall -,-
+静穏なる-Calm-,不浄の-Unclean-,沙海-SeaOfSand-,7_9_28,13,隠されし-Hidden-_禁断の-Forbidden-_黄泉国-Hades-,嘆きの都 エルド・スレイカ-Wailing Capital Wald Uberlisterin-,-
+神さびる-Sacred-,風車の-Windmill's-,古戦場-Battlefield-,7_9_39,13,隠されし-Hidden-_禁断の-Forbidden-_古戦場-Battlefield-,コシュタ・バウア戦場跡-The Coite-Bodher Battlefield-,-
+呪われし-Cursed-,風紋の-WindSand's-,極北-Arctic-,7_9_12,13,隠されし-Hidden-_禁断の-Forbidden-_意馬心猿-InHeat-,糖蜜の館 シフ・ベルグ-Sugar Mansion Sif Berg-,-
+時きざむ-Chronicling-,忘却の-Oblivious-,鏡像世界-MirrorWorld-,7_9_3,13,隠されし-Hidden-_禁断の-Forbidden-_秘蹟-Sacrament-,ギャリオン・メイズ大神殿-The Great Temple of Caerleon Medb-,-
+光放つ-Glowing-,謀略の-Snaring-,巨人-Giant-,7_9_11,13,隠されし-Hidden-_禁断の-Forbidden-_竜骨山脈-Dragonbein-,竜骨山脈ブリューナ・ギデオン-Briona Gwydion the Dragonbein Range-,-
+孤立せる-Lonely-,夢幻の-Fantasy-,休耕地-Grasslands-,7_9_6,13,隠されし-Hidden-_禁断の-Forbidden-_飛瀑-Radiation-,アルケ・ケルン大瀑布-Arche Koeln Waterfall-,-
+共鳴する-Resonating-,無窮の-Eternity's-,機械人形-MetalDoll-,7_9_24,13,隠されし-Hidden-_禁断の-Forbidden-_冥界樹-DeadWood-,死生所 エルディルー-Dead World of Indieglut Lugh-,-
+忌まわしき-Hideous-,無垢なる-Innocent-,楽園-Paradise-,7_9_7,13,隠されし-Hidden-_禁断の-Forbidden-_罪界-SinRealm-,痛みの森 ラーンバティ-World of Sin Ran Hati-,-
+瓦解せる-Collapsed-,幽玄の-Subtle-,黄泉国-Hades-,7_9_8,13,隠されし-Hidden-_禁断の-Forbidden-_無明窟-DarkGrotto-,クア・ホルム大空洞-Q’ha Holme Cavern-,-
 霞み行く-Fading-,旅人の-Traveler's-,遠雷-FarThunder-,7_9_14,0,-,-,-
 果てなき-Boundless-,煉獄の-Purgatorial-,栄華-Glory-,0_0_0,0,-,-,-
 ほろ苦き-Bitter-,六花の-Snowflake's-,遺跡郡-Remains-,0_0_0,0,-,-,-
