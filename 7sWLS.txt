@@ -9,7 +9,7 @@
 8,豊穣なる-Plenteous-,禁断の-Forbidden-,魔境-HauntedLand-,3,6_8_20,隠されし-Hidden-,禁断の-Forbidden-,聖域-Holy Ground-,グリーマ・レーヴ大聖堂-Hülle Granz Cathedral-,-
 9,埋もれし-Buried-,金色の-Golden-,碧野-Green Field- ,4,31_24_16,孤立せる-Lonely-,沈黙の-Silent-,大蓋-Great Seal-,創造主の部屋-The Creator's Room-,-
 10,華麗なる-Splendid-,月下の-Moonlit-,飛瀑-Radiation-,5,28_16_33,呪われし-Cursed-,失意の-Despaired-,楽園-Paradise-,碑文の断片 00-Epitaph 00-,-
-11,閉ざされし-Closed-,原初の-Prumitive-,秘蹟-Sacrament-,6,20_8_9,名もなき-Nameless-,禁断の-Forbidden-,碧野-Green Field- ,碑文の断片 01-Epitaph 01-,-
+11,閉ざされし-Closed-,原初の-Prumitive-,秘蹟-Sacrament-,6,19_7_8,滅びゆく-Dying-,狂乱の-Madness-,魔境-HauntedLand-,碑文の断片 01-Epitaph 01-,-
 12,厳酷なる-Severe-,湖畔の-Lakeside's-,道標-Milestone-,7,24_30_17,談笑する-Chatting-,謀略の-Snaring-,双子-Twins-,碑文の断片 02-Epitaph 02-,-
 13,見えざる-Unseen-,最悪の-Worst-,展覧会-Exhibition-,8,32_4_31,共鳴する-Resonating-,偽りの-False-,休耕地-Grasslands-,碑文の断片 03-Epitaph 03-,-
 14,永久誓う-Forever-,最果ての-Distant-,帝国-Empire-,9,25_28_21,絶叫する-Screaming-,風紋の-WindSand's-,宿命城-FateCastle-,碑文の断片 04-Epitaph 04-,-
