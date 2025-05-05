@@ -14,7 +14,7 @@
 13,見えざる-Unseen-,最悪の-Worst-,展覧会-Exhibition-,8,32_4_31,共鳴する-Resonating-,偽りの-False-,休耕地-Grasslands-,碑文の断片 03-Epitaph 03-,-
 14,永久誓う-Forever-,最果ての-Distant-,帝国-Empire-,9,25_28_21,絶叫する-Screaming-,風紋の-WindSand's-,宿命城-FateCastle-,碑文の断片 04-Epitaph 04-,-
 15,茫漠たる-Expansive-,罪科の-Crime's-,中心核-Core-,10,17_36_24,輪廻する-Reincarnated-,煉獄の-Purgatorial-,祭壇-Altar-,ハロルドの部屋-The Harald's Room-,-
-16,嘲笑う-Sneering-,失意の-Despaired-,大蓋-Great Seal-,11,37_36_29,ほろ苦き-Bitter-,煉獄の-Purgatorial-,鏡像世界-MirrorWorld-,逆城都市-The Inverted Castle-,-
+16,嘲笑う-Sneering-,失意の-Despaired-,大蓋-Great Seal-,11,37_31_29,ほろ苦き-Bitter-,夢幻の-Fantasy-,鏡像世界-MirrorWorld-,逆城都市-The Inverted Castle-,-
 17,輪廻する-Reincarnated-,情熱の-Passionate-,双子-Twins-,11,33_23_30,忌まわしき-Hideous-,誰がための-Someone's-,巨人-Giant-,飛行船旅団-The Aerial Fleet-,-
 18,欲深き-Greedy-,蒸気機関の-Engine's-,旋律-Melody-,11,21_2_4,脈動する-Pulsating-,雲海の-SeaOfCloud-,勇魚-Whale-,巨大生物-The Giant Creature-,-
 19,滅びゆく-Dying-,真実の-Truth's-,絶対城壁-Bukwark-,11,29_5_33,時きざむ-Chronicling-,久遠の-Eternal-,楽園-Paradise-,悠久の古都 マク・アヌ-EternalCity MacAnu-,-
