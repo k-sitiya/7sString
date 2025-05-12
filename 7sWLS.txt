@@ -1,41 +1,76 @@
-0,-,-,-,1,21_13_15,脈動する-Pulsating-,最悪の-Worst-,中心核-Core-,ネットスラム -Net Slum-,-
-1,花開く-Blooming-,異教の-Pagan-,稜線-Ridgeline-,1,21_19_15,脈動する-Pulsating-,真実の-Truth's-,中心核-Core-,ネットスラム -Net Slum-,-
-2,光なき-Lightless-,雲海の-SeaOfCloud-,竜骨山脈-Dragonbein-,1,21_21_15,脈動する-Pulsating-,創世の-Genesis's-,中心核-Core-,ネットスラム タルタルガ-Net Slum Tartarga-,-
-3,焦げつく-Burining-,化石の-Fossil's-,夕月-NightMoon-,2,26_11_18,静穏なる-Calm-,原初の-Prumitive-,旋律-Melody-,水の都 マク・アヌ-AquaCity MacAnu-,-
-4,大いなる-Great-,偽りの-False-,勇魚-Whale-,2,20_27_22,名もなき-Nameless-,風車の-Windmill's-,残留思念-Remnant-,高山都市 ドゥナ・ロリヤック-HighlandCity DunLoireag-,-
-5,底知れぬ-Bottomless-,久遠の-Eternal-,冥界樹-DeadWood-,2,27_15_35,神さびる-Sacred-,罪科の-Crime's-,遠雷-FarThunder-,文明都市 カルミナ・ガデリカ-CulturalCity CarminaGadelica-,-
-6,隠されし-Hidden-,朽葉色の-Fallow-,無明窟-DarkGrotto-,2,34_2_25,瓦解せる-Collapsed-,雲海の-SeaOfCloud-,砦-Fort-,空中都市 フォート・アウフ-AerialCity FortOuph-,-
-7,風駆ける-Galloping-,狂乱の-Madness-,未踏峰-VirginPeaks-,2,35_20_20,霞み行く-Fading-,翠緑の-Emerald-,聖域-Holy Ground-,遺跡都市 リア・ファイル-RelicCity LiaFail-,-
-8,豊穣なる-Plenteous-,禁断の-Forbidden-,魔境-HauntedLand-,3,6_8_20,隠されし-Hidden-,禁断の-Forbidden-,聖域-Holy Ground-,グリーマ・レーヴ大聖堂-Hülle Granz Cathedral-,-
-9,埋もれし-Buried-,金色の-Golden-,碧野-Green Field- ,4,31_24_16,孤立せる-Lonely-,沈黙の-Silent-,大蓋-Great Seal-,創造主の部屋-The Creator's Room-,-
-10,華麗なる-Splendid-,月下の-Moonlit-,飛瀑-Radiation-,5,28_16_33,呪われし-Cursed-,失意の-Despaired-,楽園-Paradise-,碑文の断片 00-Epitaph 00-,-
-11,閉ざされし-Closed-,原初の-Prumitive-,秘蹟-Sacrament-,6,19_7_8,滅びゆく-Dying-,狂乱の-Madness-,魔境-HauntedLand-,碑文の断片 01-Epitaph 01-,-
-12,厳酷なる-Severe-,湖畔の-Lakeside's-,道標-Milestone-,7,24_30_17,談笑する-Chatting-,謀略の-Snaring-,双子-Twins-,碑文の断片 02-Epitaph 02-,-
-13,見えざる-Unseen-,最悪の-Worst-,展覧会-Exhibition-,8,32_4_31,共鳴する-Resonating-,偽りの-False-,休耕地-Grasslands-,碑文の断片 03-Epitaph 03-,-
-14,永久誓う-Forever-,最果ての-Distant-,帝国-Empire-,9,25_28_21,絶叫する-Screaming-,風紋の-WindSand's-,宿命城-FateCastle-,碑文の断片 04-Epitaph 04-,-
-15,茫漠たる-Expansive-,罪科の-Crime's-,中心核-Core-,10,17_36_24,輪廻する-Reincarnated-,煉獄の-Purgatorial-,祭壇-Altar-,ハロルドの部屋-The Harald's Room-,-
-16,嘲笑う-Sneering-,失意の-Despaired-,大蓋-Great Seal-,11,37_31_29,ほろ苦き-Bitter-,夢幻の-Fantasy-,鏡像世界-MirrorWorld-,逆城都市-The Inverted Castle-,-
-17,輪廻する-Reincarnated-,情熱の-Passionate-,双子-Twins-,11,33_23_30,忌まわしき-Hideous-,誰がための-Someone's-,巨人-Giant-,飛行船旅団-The Aerial Fleet-,-
-18,欲深き-Greedy-,蒸気機関の-Engine's-,旋律-Melody-,11,21_2_4,脈動する-Pulsating-,雲海の-SeaOfCloud-,勇魚-Whale-,巨大生物-The Giant Creature-,-
-19,滅びゆく-Dying-,真実の-Truth's-,絶対城壁-Bukwark-,11,29_5_33,時きざむ-Chronicling-,久遠の-Eternal-,楽園-Paradise-,悠久の古都 マク・アヌ-EternalCity MacAnu-,-
-20,名もなき-Nameless-,翠緑の-Emerald-,聖域-Holy Ground-,11,30_38_27,光放つ-Glowing-,刹那の-Momentary-,古戦場-Battlefield-,闘争都市 ルミナ・クロス-WarringCity LiminaCloth-,-
-21,脈動する-Pulsating-,創世の-Genesis's-,宿命城-FateCastle-,11,23_1_37,年経た-Ancient-,異教の-Pagan-,遺跡郡-Remains-,蒼穹都市 ドル・ドナ-CelestialCity DolDona-,-
-22,腐敗せる-Rotting-,大海の-Ocean's-,残留思念-Remnant-,11,18_21_14,欲深き-Greedy-,創世の-Genesis's-,帝国-Empire-,双天都市 ブレグ・エボナ-DualCity BregEpona-,-
-23,年経た-Ancient-,誰がための-Someone's-,罪界-SinRealm-,11,1_17_36,花開く-Blooming-,情熱の-Passionate-,栄華-Glory-,"王者の島 イ･プラセル-Hy Brasail, the Isle of Kings-",-
-24,談笑する-Chatting-,沈黙の-Silent-,祭壇-Altar-,12,6_8_13,隠されし-Hidden-,禁断の-Forbidden-,展覧会-Exhibition-,バル・ボル美術館-Balbol Museum-,-
-25,絶叫する-Screaming-,必衰の-Failing-,砦-Fort-,13,6_8_19,隠されし-Hidden-,禁断の-Forbidden-,絶対城壁-Bukwark-,モーリー・バロウ城砦-Morrigu Barrow Wall -,-
-26,静穏なる-Calm-,不浄の-Unclean-,沙海-SeaOfSand-,13,6_8_34,隠されし-Hidden-,禁断の-Forbidden-,黄泉国-Hades-,嘆きの都 エルド・スレイカ-Wailing Capital Wald Uberlisterin-,-
-27,神さびる-Sacred-,風車の-Windmill's-,古戦場-Battlefield-,13,6_8_27,隠されし-Hidden-,禁断の-Forbidden-,古戦場-Battlefield-,コシュタ・バウア戦場跡-The Coite-Bodher Battlefield-,-
-28,呪われし-Cursed-,風紋の-WindSand's-,極北-Arctic-,13,6_8_38,隠されし-Hidden-,禁断の-Forbidden-,意馬心猿-InHeat-,糖蜜の館 シフ・ベルグ-Sugar Mansion Sif Berg-,-
-29,時きざむ-Chronicling-,忘却の-Oblivious-,鏡像世界-MirrorWorld-,13,6_8_11,隠されし-Hidden-,禁断の-Forbidden-,秘蹟-Sacrament-,ギャリオン・メイズ大神殿-The Great Temple of Caerleon Medb-,-
-30,光放つ-Glowing-,謀略の-Snaring-,巨人-Giant-,13,6_8_2,隠されし-Hidden-,禁断の-Forbidden-,竜骨山脈-Dragonbein-,竜骨山脈ブリューナ・ギデオン-Briona Gwydion the Dragonbein Range-,-
-31,孤立せる-Lonely-,夢幻の-Fantasy-,休耕地-Grasslands-,13,6_8_10,隠されし-Hidden-,禁断の-Forbidden-,飛瀑-Radiation-,アルケ・ケルン大瀑布-Arche Koeln Waterfall-,-
-32,共鳴する-Resonating-,無窮の-Eternity's-,機械人形-MetalDoll-,13,6_8_5,隠されし-Hidden-,禁断の-Forbidden-,冥界樹-DeadWood-,死生所 エルディルー-Dead World of Indieglut Lugh-,-
-33,忌まわしき-Hideous-,無垢なる-Innocent-,楽園-Paradise-,13,6_8_23,隠されし-Hidden-,禁断の-Forbidden-,罪界-SinRealm-,痛みの森 ラーンバティ-World of Sin Ran Hati-,-
-34,瓦解せる-Collapsed-,幽玄の-Subtle-,黄泉国-Hades-,13,6_8_6,隠されし-Hidden-,禁断の-Forbidden-,無明窟-DarkGrotto-,クア・ホルム大空洞-Q’ha Holme Cavern-,-
-35,霞み行く-Fading-,旅人の-Traveler's-,遠雷-FarThunder-,0,0_0_0,-,-,-,-,-
-36,果てなき-Boundless-,煉獄の-Purgatorial-,栄華-Glory-,0,0_0_0,-,-,-,-,-
-37,ほろ苦き-Bitter-,六花の-Snowflake's-,遺跡郡-Remains-,0,0_0_0,-,-,-,-,-
-38,くれなずむ-Setting-,刹那の-Momentary-,意馬心猿-InHeat-,0,0_0_0,-,-,-,-,-
-39,,,,0,0_0_0,-,-,-,-,-
-40,,,,0,0_0_0,-,-,-,-,-
+18,37,0,0,w,"海上都市「エメス」/VLFPs""E.M.E.T.H""",at_suma,https://vrchat.com/home/world/wrld_b9078cb5-4e20-4c39-893e-ff7aa77d7e63/info,
+18,37,0,0,w,"海上都市「エメス」/VLFPs""E.M.E.T.H""",at_suma,https://vrchat.com/home/world/wrld_b9078cb5-4e20-4c39-893e-ff7aa77d7e63/info,
+18,36,0,1,w,Cyber picture world,Bella`,,https://vrchat.com/home/world/wrld_30e39098-96e1-427b-9ba6-ffc081471f92/info
+18,36,0,1,w,Cyber picture world,Bella`,,https://vrchat.com/home/world/wrld_30e39098-96e1-427b-9ba6-ffc081471f92/info
+17,35,1,2,w,神隠しの行方,ポケット,https://vrchat.com/home/world/wrld_0445f782-ff27-4bc7-9434-ca576c5847ef/info,
+17,35,1,2,w,神隠しの行方,ポケット,https://vrchat.com/home/world/wrld_0445f782-ff27-4bc7-9434-ca576c5847ef/info,
+17,34,1,3,h,おでかけタウン（Odekake Town）,Koyuri,https://vrchat.com/home/world/wrld_df603550-1789-4caa-a5be-5fd339e58328/info,
+17,34,1,3,w,神隠しの行方,ポケット,https://vrchat.com/home/world/wrld_0445f782-ff27-4bc7-9434-ca576c5847ef/info,
+16,33,2,4,w,友達の失恋,minhoです,https://vrchat.com/home/world/wrld_baf89986-393c-4c3f-87fe-f28ae3e71ff1/info,
+16,33,2,4,w,友達の失恋,minhoです,https://vrchat.com/home/world/wrld_baf89986-393c-4c3f-87fe-f28ae3e71ff1/info,
+16,32,2,5,w,Obsidian,★-Nine-★,https://vrchat.com/home/world/wrld_18a596a0-2cc3-43d0-bcf1-bdf4d30665b1/info,
+16,32,2,5,w,友達の失恋,minhoです,https://vrchat.com/home/world/wrld_baf89986-393c-4c3f-87fe-f28ae3e71ff1/info,
+15,31,3,6,w,Small바보 Island （Day）,Da Hyeon,https://vrchat.com/home/world/wrld_04d17d3d-520a-4f9d-8b0a-7f17adc17741/info,
+15,31,3,6,w,Small바보 Island （Day）,Da Hyeon,https://vrchat.com/home/world/wrld_04d17d3d-520a-4f9d-8b0a-7f17adc17741/info,
+15,30,3,7,w,COLOR,rokumori_,https://vrchat.com/home/world/wrld_034d4607-4ab1-49c2-b373-df7d5ee260d5/info,
+15,30,3,7,w,COLOR,rokumori_,https://vrchat.com/home/world/wrld_034d4607-4ab1-49c2-b373-df7d5ee260d5/info,
+14,29,4,8,w,終末駅 夕 - post apocalyptic station sunset -,tiwa,https://vrchat.com/home/world/wrld_8ed4a0af-a961-4ab8-aaf2-12010ae366e9/info,
+14,29,4,8,w,終末駅 夕 - post apocalyptic station sunset -,tiwa,https://vrchat.com/home/world/wrld_8ed4a0af-a961-4ab8-aaf2-12010ae366e9/info,
+14,28,4,9,w,終末駅 夕 - post apocalyptic station sunset -,tiwa,https://vrchat.com/home/world/wrld_8ed4a0af-a961-4ab8-aaf2-12010ae366e9/info,
+14,28,4,9,w,終末駅 夕 - post apocalyptic station sunset -,tiwa,https://vrchat.com/home/world/wrld_8ed4a0af-a961-4ab8-aaf2-12010ae366e9/info,
+13,27,5,10,w,Yayoi twilight lakeside,猫屋敷やよい,https://vrchat.com/home/world/wrld_8e165575-b0ad-407c-8df0-80e0312548c3/info,
+13,27,5,10,w,Yayoi twilight lakeside,猫屋敷やよい,https://vrchat.com/home/world/wrld_8e165575-b0ad-407c-8df0-80e0312548c3/info,
+13,26,5,11,w,Haadokkoi,AAYOISHO,https://vrchat.com/home/world/wrld_6e898261-390c-4b50-9f2b-632f09d06ae0/info,
+13,26,5,11,w,霧月畑（白）,rakurai5,https://vrchat.com/home/world/wrld_74cfa648-0b69-4aaa-ba0b-37dc52566c12/info,
+12,25,6,12,w,CARNATION˸Recollectionｰ想い出ｰ,雨降り（あめふり）,https://vrchat.com/home/world/wrld_bbafdc37-72b2-44c5-a3bc-52a3663f3724/info,
+12,25,6,12,h,CARNATION˸Recollectionｰ想い出ｰ,雨降り（あめふり）,https://vrchat.com/home/world/wrld_bbafdc37-72b2-44c5-a3bc-52a3663f3724/info,
+12,24,6,13,w,Re˸mind,bakinsoda,https://vrchat.com/home/world/wrld_dbaaa86f-4965-4657-9147-54199a6e2881/info,
+12,24,6,13,h,deep fog,オーゼンOzen,https://vrchat.com/home/world/wrld_20b24354-d67f-4622-9415-e1d14af60639/info,
+11,23,7,14,h,独夜ノクターン -Nocturne in Lonely Night-,Atto_あっと,https://vrchat.com/home/world/wrld_c4d572ac-7f36-4ff7-b0e0-0dc8efdab88d/info,
+11,23,7,14,w,終天 -ショウケイクイキ- Isolated Area -Blaze-,Atto_あっと,https://vrchat.com/home/world/wrld_fc74b685-94d9-48b9-82cd-d1444a39a9a2/info,
+11,22,7,15,h,The Sanctuary Forest,wata23,https://vrchat.com/home/world/wrld_1f7cca2a-72f7-4373-96e8-7ee8c823a1b0/info,
+11,22,7,15,h,Deep Blue,Fins,https://vrchat.com/home/world/wrld_f7a383bc-c925-4696-85c2-2996c0a40112/info,
+10,21,8,16,w,幻想のほとり -gensounohotori-,ポケット,https://vrchat.com/home/world/wrld_3a478e84-6717-4ff4-ad3c-f84a3079169b/info,
+10,21,8,16,w,幻想のほとり -gensounohotori-,ポケット,https://vrchat.com/home/world/wrld_3a478e84-6717-4ff4-ad3c-f84a3079169b/info,
+10,20,8,17,w,Light City,COMA․,https://vrchat.com/home/world/wrld_a9e14a00-a9ca-4b41-a9ec-85dab6e15dc7/info,
+10,20,8,17,w,Light City,COMA․,https://vrchat.com/home/world/wrld_a9e14a00-a9ca-4b41-a9ec-85dab6e15dc7/info,
+9,19,9,18,w,Green Field,mycollar,https://vrchat.com/home/world/wrld_b8fc8271-eec0-4ec8-a37b-bcd576d54b95/info,
+9,19,9,18,h,Green Field,mycollar,https://vrchat.com/home/world/wrld_b8fc8271-eec0-4ec8-a37b-bcd576d54b95/info,
+9,18,9,19,w,Mirrored Flowers - 鏡に咲く花,EstyOctober,https://vrchat.com/home/world/wrld_03ca2cf0-d7cb-46b7-b725-fdac5d8e1ced/info,
+9,18,9,19,h,雲海区（Cloud-Sea District）,Maguro Juice,https://vrchat.com/home/world/wrld_6e7f05a0-4c24-4f8f-983d-095dbed3be38/info,
+8,17,10,20,w,Summer Haven（Re˸夏の避難所）,HISHIO,https://vrchat.com/home/world/wrld_2b70faf5-fa88-4370-808d-af681da1cfc7/info,
+8,17,10,20,h,Whale of Light and Crystal Lake,guntamix,https://vrchat.com/home/world/wrld_2c287aa5-d403-4b21-ad3e-381de27c4cd3/info,
+8,16,10,21,w,Secret Den,Cap․,https://vrchat.com/home/world/wrld_a2ee4876-6560-4a87-bf30-2b7c51fc1792/info,
+8,16,10,21,w,C․Library,しーわん,https://vrchat.com/home/world/wrld_83449166-f6d5-4c1f-937f-4344b0a24380/info,
+7,15,11,22,h,Vket2022W TetherFord - Void,Vket,https://vrchat.com/home/world/wrld_cbbc51df-34a5-48b4-a728-3d0f79d6f245/info,
+7,15,11,22,w,Vket2022W Madam Colts Wunderkammer - Mystery Catalogue,Vket,https://vrchat.com/home/world/wrld_aeeccc6d-762e-45e3-864e-5a560dc39b77/info,
+7,14,11,23,w,Yayoi Summer Nights,猫屋敷やよい,https://vrchat.com/home/world/wrld_88e3c772-894f-418d-b9e5-96059af3d631/info,
+7,14,11,23,w,Yayoi Summer Nights,猫屋敷やよい,https://vrchat.com/home/world/wrld_88e3c772-894f-418d-b9e5-96059af3d631/info,
+6,13,12,24,w,-,ポケット,,
+6,13,12,24,w,ETO CAMPSITE,エトランジェ,https://vrchat.com/home/world/wrld_19fcfc4c-4c77-4c23-91c5-6e78fad37182/info,
+6,12,12,25,h,Sweets Dishǃ,とかげ／Tokage,https://vrchat.com/home/world/wrld_e48cb437-10bc-458f-8d20-e965cff84578/info,
+6,12,12,25,h,Yayoi Starfield,猫屋敷やよい,https://vrchat.com/home/world/wrld_de6c7810-d2e5-43df-8d01-0064038791dd/info,
+5,11,13,26,w,chess world,konatu,https://vrchat.com/home/world/wrld_d38f866c-785a-4b97-af9c-d188c8bf2151/info,
+5,11,13,26,h,New York Street,Enverex,https://vrchat.com/home/world/wrld_c9f91069-5c3e-499f-a168-86fd59441ea6/info,
+5,10,13,27,w,Yayoi sakura Incline,猫屋敷やよい,https://vrchat.com/home/world/wrld_fdcd43ae-1333-43cf-8d0e-5c923ac00562/info,
+5,10,13,27,h,Gion Street - 祇園通り日本,Fins,https://vrchat.com/home/world/wrld_d048292b-42ad-4204-9372-0103d9a46f71/info,
+4,9,14,28,w,Storm Drain,Cattus,https://vrchat.com/home/world/wrld_b981e35e-597f-4604-a06b-d92188bf89e9/info,
+4,9,14,28,h,Storm Drain,Cattus,https://vrchat.com/home/world/wrld_b981e35e-597f-4604-a06b-d92188bf89e9/info,
+4,8,14,29,w,Recrystallization,ぱるちゃんparuchan,https://vrchat.com/home/world/wrld_9563dc2c-f01c-41a8-acb3-a34217fac16c/info,
+4,8,14,29,h,Recrystallization,ぱるちゃんparuchan,https://vrchat.com/home/world/wrld_9563dc2c-f01c-41a8-acb3-a34217fac16c/info,
+3,7,15,30,h,Waves,Mochie,https://vrchat.com/home/world/wrld_2d9803f0-924d-407c-b92b-b0654c5afbde/info,
+3,7,15,30,h,Recrystallization,ぱるちゃんparuchan,https://vrchat.com/home/world/wrld_9563dc2c-f01c-41a8-acb3-a34217fac16c/info,
+3,6,15,31,h,-,-,,
+3,6,15,31,h,Storm Drain,Cattus,https://vrchat.com/home/world/wrld_b981e35e-597f-4604-a06b-d92188bf89e9/info,
+2,5,16,32,h,最後のクリスマス-Last Christmas,HANI․,https://vrchat.com/home/world/wrld_dfbd5d6a-b559-4dec-8693-3509b985cbd0/info,
+2,5,16,32,w,右近弐式集会 会場Archive ⁄ Ukon second type meetup,arancioneVRC,https://vrchat.com/home/world/wrld_f0b6ee81-f2be-4eb7-ae0e-4850efe409f5/info,
+2,4,16,33,h,月夜の鐘と,Nipe,https://vrchat.com/home/world/wrld_e5c8a0e3-bf35-46de-a11a-54934c8931f2/info,
+2,4,16,33,h,月夜の鐘と,Nipe,https://vrchat.com/home/world/wrld_e5c8a0e3-bf35-46de-a11a-54934c8931f2/info,
+1,3,17,34,h,Charlotte's Sunflower Island~ひまわり咲く癒しの港町,Charlotte（シャル）,https://vrchat.com/home/world/wrld_d8b48301-f025-48c9-9105-a2c84e08faa0/info,
+1,3,17,34,h,NANO Flower Hill,N A N O -,https://vrchat.com/home/world/wrld_ff811c02-5756-4cb9-90cf-5dae44b42d7b/info,
+1,2,17,35,h,流星群の終着駅,HANI․,https://vrchat.com/home/world/wrld_d3d063ab-74e0-4863-aeb0-797003f2a370/info,
+1,2,17,35,h,视界の寂 Alone,时隐Andsen,https://vrchat.com/home/world/wrld_864682b1-42eb-4abd-961a-cb373c9cdab9/info,
+0,1,18,36,h,Yayoi sakura Incline,猫屋敷やよい,https://vrchat.com/home/world/wrld_fdcd43ae-1333-43cf-8d0e-5c923ac00562/info,
+0,1,18,36,h,Re˸天泣の社 - sun shower shrine -,tiwa,https://vrchat.com/home/world/wrld_86b332d3-307c-437c-bca4-94a069a12357/info,
+0,0,18,37,,-None-,-None-,,
+0,0,18,37,,-None-,-None-,,
